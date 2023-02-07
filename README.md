@@ -4,6 +4,7 @@ All political speechs made in France since the beginning of the 5th Republic (19
 More than 140.000 speechs are stored in this dataset.  
 
 The json contains one key "speechs" which is an array containing all speechs. Every speech is in the form :  
+```
 {  
     'title': str,  
     'speakers': list of object in the form : {'name': str, 'function': str},   
@@ -14,7 +15,8 @@ The json contains one key "speechs" which is an array containing all speechs. Ev
     'readtime': str,    
     'kind': str,   
     'text': str    
-}     
+}
+```
 
 Scraped by Yannis Bendi-Ouis.
 Website: https://www.naowak.fr/
