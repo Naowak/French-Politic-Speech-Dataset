@@ -20,3 +20,6 @@ The json contains one key "speechs" which is an array containing all speechs. Ev
 
 Scraped by Yannis Bendi-Ouis.   
 Website: https://www.naowak.fr/
+
+## License
+This project is licensed under the MIT License with an Acknowledgment Clause. See LICENSE for more information.
