@@ -18,7 +18,7 @@ The json contains one key "speechs" which is an array containing all speechs. Ev
 }
 ```
 
-## Guidelines to download it
+## Download
 
 Github LFS restricts the storage. But you can download following those steps :
 
