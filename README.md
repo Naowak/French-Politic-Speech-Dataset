@@ -18,6 +18,18 @@ The json contains one key "speechs" which is an array containing all speechs. Ev
 }
 ```
 
+## Guidelines to download it
+
+Github LFS restricts the storage. But you can download following those steps :
+
+1. Fork the repo  
+2. Go to the Fork's Settings  
+3. Find "Include git lfs objects in archives"  
+4. Return to the fork's homepage  
+5. Download as a .zip  
+6. The download may take a good minute to start, but it will eventually download the compressed archive (~300MB), which you can then extract (~1GB).  
+7. Optional: You can delete the fork.
+
 Scraped by Yannis Bendi-Ouis.   
 Website: https://www.naowak.fr/
 
