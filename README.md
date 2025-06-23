@@ -20,7 +20,8 @@ The json contains one key "speechs" which is an array containing all speechs. Ev
 
 ## Download
 
-Github LFS restricts the storage so the dataset as been moved to a google drive. The download link is the following:
+Github LFS restricts the storage so the dataset as been moved to a google drive.  
+The download link is the following:  
 https://drive.google.com/file/d/1byaobaQrP0cLk_pkpZwYN2sVKwgnS5qP/view?usp=sharing
 
 Scraped by Yannis Bendi-Ouis.   
